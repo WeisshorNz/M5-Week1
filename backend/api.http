@@ -3,7 +3,7 @@ POST  http://localhost:4001/message
 Content-Type: application/json
 
 {
-    "message": "Hello World!"
+    "message": "Hello 123!"
 }
 
 ### delete a message
