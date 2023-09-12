@@ -3,11 +3,11 @@ POST  http://localhost:4001/message
 Content-Type: application/json
 
 {
-    "message": "Hello 123!"
+    "message": "Hello 555!"
 }
 
 ### delete a message
-DELETE http://localhost:4001/message/64ffc36a39a6f476dc2e7a8b
+DELETE http://localhost:4001/message/650023fce17ccb64a86a186f
 ### get all messages in database
 GET http://localhost:4001/message
 
