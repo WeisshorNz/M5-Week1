@@ -7,7 +7,7 @@ Content-Type: application/json
 }
 
 ### delete a message
-DELETE http://localhost:4001/message/650023fce17ccb64a86a186f
+DELETE http://localhost:4001/message/65003185ad7bea86ba61faec
 ### get all messages in database
 GET http://localhost:4001/message
 
